@@ -1,0 +1,16 @@
+# ninja log v5
+34	1117	6728537093734071	CMakeFiles/Tp5.dir/src/util.cpp.obj	90fc1223d6a7b06b
+28	2381	6728537106404726	CMakeFiles/Tp5.dir/src/main.cpp.obj	e3f4916bcc4301df
+6	1006	6728537092251254	CMakeFiles/Tp5.dir/src/heritage.cpp.obj	ba8311b6696fc053
+1	549	6728539276045048	build.ninja	1dfdfc9f964df4c8
+40	1033	6728537092818578	CMakeFiles/Tp5.dir/src/package.cpp.obj	1cb8c52c3b843001
+6	590	6728538600786618	CMakeFiles/Tp5.dir/src/menu.cpp.obj	bd3282c40519bade
+590	769	6728538602513896	Tp5.exe	2aadeb0ae7d730a2
+5	627	6728539578506933	CMakeFiles/Tp5.dir/src/menu.cpp.obj	bd3282c40519bade
+628	836	6728539580542632	Tp5.exe	2aadeb0ae7d730a2
+5	1384	6728541368906543	CMakeFiles/Tp5.dir/src/heritage.cpp.obj	ba8311b6696fc053
+30	1427	6728541369385263	CMakeFiles/Tp5.dir/src/util.cpp.obj	90fc1223d6a7b06b
+26	1493	6728541370357775	CMakeFiles/Tp5.dir/src/menu.cpp.obj	bd3282c40519bade
+34	1538	6728541370686875	CMakeFiles/Tp5.dir/src/package.cpp.obj	1cb8c52c3b843001
+23	3610	6728541391636574	CMakeFiles/Tp5.dir/src/main.cpp.obj	e3f4916bcc4301df
+3610	3825	6728541393653558	Tp5.exe	2aadeb0ae7d730a2

@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\davym\Downloads\Ynov\POO\Tp2 Select CMakeLists.txt
