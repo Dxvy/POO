@@ -1,5 +1,4 @@
-#include "main.h"
-#include "TPCpp/menu.h"
+#include "../include/main.h"
 int main() {
 #ifdef _WIN32
     // fixe l'affichage des accents dans la console sous windows

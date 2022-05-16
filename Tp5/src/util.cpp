@@ -1,6 +1,13 @@
+#include <algorithm>
 #include "./../include/util.h"
-#include "TPCpp/menu.h"
+#include "../include/TPCpp/menu.h"
 
+std::string Utils::tolower(std::string &str) {
+    std::transform(str.begin(), str.end(), str.begin(), [](unsigned char c) {
+        return std::tolower(c);
+    });
+    return str;
+}
 
 int askIntInput(const std::string prompt) {
     std::string input;

@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.21)
 project(Tp5)
 
-include_directories(C:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include)
+include_directories(Tp5/include)
 
 set(CMAKE_CXX_STANDARD 14)
 

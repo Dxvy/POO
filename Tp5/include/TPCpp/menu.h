@@ -6,14 +6,15 @@
 #define TP5_MENU_H
 
 #include <iostream>
-#include "util.h"
+#include "../util.h"
+#include "../exos.h"
+
 using std::cout;
 using std::cin;
 using std::endl;
 void execute(void);
 void runExecute(const int &n);
 void heritage();
-void package();
 
 namespace TPCpp {
     class Menu {
@@ -31,7 +32,7 @@ namespace TPCpp {
                     heritage();
                     break;
                 case 2:
-                    package();
+                    TP::EX2::package();
                     break;
                 default:
                     cout << "Choix invalide." << endl;
