@@ -2,17 +2,15 @@
 // Created by davym on 28/04/2022.
 //
 
-#ifndef TP5_MENU_H
-#define TP5_MENU_H
-
+#pragma once
 #include <iostream>
-#include "util.h"
+#include "../util.h"
+#include "../exos.h"
+#include "../../include/TPCpp/menu.h"
+
 using std::cout;
 using std::cin;
 using std::endl;
-void execute(void);
-void runExecute(const int &n);
-void heritage();
 void package();
 
 namespace TPCpp {
@@ -28,7 +26,7 @@ namespace TPCpp {
                     cout << "Au revoir" << endl;
                     break;
                 case 1:
-                    heritage();
+                    Partie5::EX1::exo1();
                     break;
                 case 2:
                     package();
@@ -41,4 +39,3 @@ namespace TPCpp {
     };
 }
 
-#endif //TP5_MENU_H

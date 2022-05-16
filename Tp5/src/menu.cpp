@@ -1,5 +1,4 @@
-#include "TPCpp/menu.h"
-#include "util.h"
+#include "../../Tp5/include/TPCpp/menu.h"
 
 namespace TPCpp {
 
