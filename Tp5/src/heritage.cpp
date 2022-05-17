@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-#include "./../include/exos.h"
-#include "../include/TPCpp/menu.h"
-=======
-#include "../include/exos.h"
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816
+#include "../include/Exo1.h"
 
 
 void Partie5::EX1::Personne::setNom(const std::string &nom, const unsigned &numero, const Sexe &sexe) {

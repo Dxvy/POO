@@ -39,11 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Tp5::@6890427a1f51a3e7e1df",
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-16711bb15a7dc4c346d8.json
-					"jsonFile" : "target-Tp5-Debug-69b6a1a2f34330e86cc1.json",
-=======
-					"jsonFile" : "target-Tp5-Debug-56bfac13142ec7da7fef.json",
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-4d2d2f4b07f4b43f5548.json
+					"jsonFile" : "target-Tp5-Debug-682d8f81ba0979b17ce7.json",
 					"name" : "Tp5",
 					"projectIndex" : 0
 				}
@@ -53,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/kheir/OneDrive/Desktop/Ynov/C++/POO/Tp5/cmake-build-debug",
-		"source" : "C:/Users/kheir/OneDrive/Desktop/Ynov/C++/POO/Tp5"
+		"build" : "C:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/cmake-build-debug",
+		"source" : "C:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5"
 	},
 	"version" : 
 	{

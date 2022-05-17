@@ -4,7 +4,8 @@
 
 #ifndef TP5_RECTANGLE_H
 #define TP5_RECTANGLE_H
-#include "../../include/exos.h"
+#include "AForme.h"
+
 
 // Header Rectangle
 /**
@@ -21,7 +22,7 @@ namespace TP::EX2 {
      *
      * Cette classe représente un rectangle.
      */
-    class Rectangle : public TP::EX2::AFormeGeometrique {
+class Rectangle : public AFormeGeometrique {
     public:
         /**
          * @brief Constructeur.

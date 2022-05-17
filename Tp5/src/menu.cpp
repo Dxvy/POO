@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 #include "../include/TPCpp/menu.h"
-=======
-#include "../../Tp5/include/TPCpp/menu.h"
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816
+
 
 namespace TPCpp {
 

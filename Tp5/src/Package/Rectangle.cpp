@@ -2,8 +2,7 @@
 // Created by davym on 16/05/2022.
 //
 #include "../../include/exos.h"
-#include "../../include/TPCpp/menu.h"
-
+#include "../../include/Exo2/rectangle.h"
 
 void TP::EX2::Rectangle::affichage() const {
     std::cout << "Rectangle de longueur " << a_longueur << " et de largeur " << a_largeur << '\n';

@@ -4,7 +4,6 @@
 
 #ifndef TP5_BFORME_H
 #define TP5_BFORME_H
-#include "../exos.h"
 // Header 2
 /**
  * @namespace Exercice 2.

@@ -28,13 +28,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 10,
+				"line" : 11,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 4,
+				"line" : 5,
 				"parent" : 0
 			}
 		]
@@ -48,18 +48,14 @@
 					"fragment" : "-g"
 				},
 				{
-					"fragment" : "-std=gnu++14"
+					"fragment" : "-std=gnu++20"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-69b6a1a2f34330e86cc1.json
-					"path" : "C:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include"
-=======
-					"path" : "/Tp5/include"
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-56bfac13142ec7da7fef.json
+					"path" : "C:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include"
 				}
 			],
 			"language" : "CXX",
@@ -69,12 +65,10 @@
 				[
 					1
 				],
-				"standard" : "14"
+				"standard" : "20"
 			},
 			"sourceIndexes" : 
 			[
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-69b6a1a2f34330e86cc1.json
-				10,
 				11,
 				12,
 				13,
@@ -82,13 +76,8 @@
 				15,
 				16,
 				17,
-				18
-=======
-				3,
-				4,
-				5,
-				6
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-56bfac13142ec7da7fef.json
+				18,
+				19
 			]
 		}
 	],
@@ -127,7 +116,6 @@
 			[
 				0,
 				1,
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-69b6a1a2f34330e86cc1.json
 				2,
 				3,
 				4,
@@ -135,18 +123,14 @@
 				6,
 				7,
 				8,
-				9
-=======
-				2
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-56bfac13142ec7da7fef.json
+				9,
+				10
 			]
 		},
 		{
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-69b6a1a2f34330e86cc1.json
-				10,
 				11,
 				12,
 				13,
@@ -154,13 +138,8 @@
 				15,
 				16,
 				17,
-				18
-=======
-				3,
-				4,
-				5,
-				6
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-56bfac13142ec7da7fef.json
+				18,
+				19
 			]
 		}
 	],
@@ -168,7 +147,11 @@
 	[
 		{
 			"backtrace" : 1,
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-69b6a1a2f34330e86cc1.json
+			"path" : "include/Exo1.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
 			"path" : "include/Exo2/AForme.h",
 			"sourceGroupIndex" : 0
 		},
@@ -200,22 +183,16 @@
 		{
 			"backtrace" : 1,
 			"path" : "include/debug.h",
-=======
-			"path" : "include/TPCpp/menu.h",
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-56bfac13142ec7da7fef.json
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"path" : "include/exos.h",
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-69b6a1a2f34330e86cc1.json
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"path" : "include/main.h",
-=======
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-56bfac13142ec7da7fef.json
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -232,7 +209,6 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-<<<<<<< HEAD:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-69b6a1a2f34330e86cc1.json
 			"path" : "src/Package/Cercle.cpp",
 			"sourceGroupIndex" : 1
 		},
@@ -246,9 +222,6 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "src/Package/exo2.cpp",
-=======
-			"path" : "src/menu.cpp",
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816:Tp5/cmake-build-debug/.cmake/api/v1/reply/target-Tp5-Debug-56bfac13142ec7da7fef.json
 			"sourceGroupIndex" : 1
 		},
 		{

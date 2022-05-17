@@ -4,8 +4,7 @@
 
 #ifndef TP5_CERCLE_H
 #define TP5_CERCLE_H
-#include "../exos.h"
-
+#include "AForme.h"
 // Header Cercle
 /**
  * @namespace Exercice 2.

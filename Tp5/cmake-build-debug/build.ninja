@@ -51,64 +51,64 @@ build cmake_object_order_depends_target_Tp5: phony || CMakeFiles/Tp5.dir
 
 build CMakeFiles/Tp5.dir/src/Package/Carre.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/Package/Carre.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\Package\Carre.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src\Package
 
 build CMakeFiles/Tp5.dir/src/Package/Cercle.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/Package/Cercle.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\Package\Cercle.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src\Package
 
 build CMakeFiles/Tp5.dir/src/Package/Rectangle.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/Package/Rectangle.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\Package\Rectangle.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src\Package
 
 build CMakeFiles/Tp5.dir/src/Package/exo2.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/Package/exo2.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\Package\exo2.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src\Package
 
 build CMakeFiles/Tp5.dir/src/Package/package.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/Package/package.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\Package\package.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src\Package
 
 build CMakeFiles/Tp5.dir/src/heritage.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/heritage.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\heritage.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src
 
 build CMakeFiles/Tp5.dir/src/main.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/main.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\main.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src
 
 build CMakeFiles/Tp5.dir/src/menu.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/menu.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\menu.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src
 
 build CMakeFiles/Tp5.dir/src/util.cpp.obj: CXX_COMPILER__Tp5_Debug C$:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/src/util.cpp || cmake_object_order_depends_target_Tp5
   DEP_FILE = CMakeFiles\Tp5.dir\src\util.cpp.obj.d
-  FLAGS = -g -std=gnu++14
-  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/Tp5/include
+  FLAGS = -g -std=gnu++20
+  INCLUDES = -IC:/Users/davym/Downloads/Ynov/POO/Exercices/Tp5/include
   OBJECT_DIR = CMakeFiles\Tp5.dir
   OBJECT_FILE_DIR = CMakeFiles\Tp5.dir\src
 

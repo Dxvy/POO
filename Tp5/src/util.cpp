@@ -1,10 +1,7 @@
 #include <algorithm>
-#include "./../include/util.h"
-<<<<<<< HEAD
+#include "../include/util.h"
 #include "../include/TPCpp/menu.h"
-=======
-#include "../../Tp5/include/TPCpp/menu.h"
->>>>>>> b39acd90c767a8bbb9a9d97be7e0bd37de479816
+
 
 std::string Utils::tolower(std::string &str) {
     std::transform(str.begin(), str.end(), str.begin(), [](unsigned char c) {

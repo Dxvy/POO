@@ -4,9 +4,8 @@
 
 #ifndef TP5_CARRE_H
 #define TP5_CARRE_H
-#include "../exos.h"
+#include "AForme.h"
 #include "rectangle.h"
-
 
 // Header carré
 /**
